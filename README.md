@@ -11,3 +11,5 @@ BAŞLA
  DEGİLSE YAZ "Durum Normal"
  DUR
  ## Kaynakça : 9. Sınıf Programlama temelleri ders kitabı 
+
+<img width="589" height="330" alt="{0E0CDCAA-4B03-4545-8B21-2A7AB7339ADB}" src="https://github.com/user-attachments/assets/895dfbc0-8388-4a13-879a-b6759e31209f" />
