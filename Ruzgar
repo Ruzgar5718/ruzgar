@@ -1,0 +1,21 @@
+Proje Yazarı: Rüzgar Berat Durmaz
+
+# Proje Adı: Kod_hastasi_asistanim v0.2
+
+## Projenin Amaci: 
+Kullanıcıdan ad, soyad ve kullanıcı adı bilgilerini alıp birleştirerek tek bir profil kimliği oluşturmak ve bunu akış şemasiyla göstermek.
+
+## Projenin Hedefleri:
+* Veri girişi ve metin birleştirme
+* Akış şemasi mantığı oluşturma
+
+## projenin kapsamı: 
+BAŞLA
+ad oku (ad)
+soyad oku (soyad)
+kullanıcı_adı oku (kullanıcı_adı)
+profil_kimligi = ad +  + soyd + (kullanıcı ad )
+YAZ "Hoş geldin profil_kimligi"
+DUR
+
+## kaynakça: Programlama programlama temelleri ders kitabı
